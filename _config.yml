@@ -1,5 +1,5 @@
 url: mkeeves.github.io
-   baseurl: /www
+baseurl: /www
 
 collections:
   authors:
